@@ -1,0 +1,6 @@
+.gitconfig
+.DS_Store
+.idea
+image_array.npy
+label_array.npy
+Dataset/
